@@ -1,0 +1,1 @@
+python Test_Batch.py --paragraph ../Input_file.txt --model ../pytorch_model.bin --config_file ../Config/bert_config.json
